@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "python.analysis.completeFunctionParens": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.defaultInterpreterPath": "python",
+    "explorer.compactFolders": false,
+    "terminal.integrated.fontSize": 14,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "vs-seti",
+    "breadcrumbs.enabled": false
+}
