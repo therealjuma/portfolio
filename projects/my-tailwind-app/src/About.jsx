@@ -3,7 +3,7 @@ const About = () => {
         <section id="about" class="py-16 bg-white dark:bg-gray-800">
             <div class="max-w-6xl mx-auto px-4">
                 <div class="text-center mb-12">
-                    <h2 class="text-4xl font-bold text-gray-900 dark:text-white mb-4">About Me</h2>
+                    <h2 class="text-4xl font-bold text-gray-900 dark:text-white mb-4">about me</h2>
                     <div class="w-20 h-1 bg-blue-600 mx-auto"></div>
                 </div>
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                     <div class="space-y-6">
                         <div class="bg-gray-50 dark:bg-gray-700 rounded-xl p-6">
-                            <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Quick Facts</h3>
+                            <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">quick facts</h3>
                             <div class="space-y-3">
                                 <div class="flex justify-between">
                                     <span class="text-gray-600 dark:text-gray-300">Location</span>
@@ -43,7 +43,7 @@ const About = () => {
                             </div>
                         </div>
                         <div class="bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-xl p-6">
-                            <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Interests</h3>
+                            <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">interests</h3>
                             <div class="flex flex-wrap gap-2">
                                 <span class="bg-white dark:bg-gray-700 px-3 py-1 rounded-full text-sm text-gray-700 dark:text-gray-300">Open Source</span>
                                 <span class="bg-white dark:bg-gray-700 px-3 py-1 rounded-full text-sm text-gray-700 dark:text-gray-300">AI/ML</span>
