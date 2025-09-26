@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+key.txt
+projects/my-tailwind-app/src/assets/.~lock.ACCOUNTS SORTED WITH ENOUGH DDA.xlsx#
+projects/my-tailwind-app/src/assets/.~lock.AllLoansAccountReport-20250926-090956.xlsx#
+projects/my-tailwind-app/src/assets/.~lock.AllLoansAccountReport-20250926-095420.xlsx#
